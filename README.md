@@ -1,8 +1,6 @@
 ckan-docker
 ===========
 
-Developing and deploying CKAN with Docker, an http://appcivico.com/ implementation.
-
 > this is a fork of https://github.com/ckan/ckan-docker but with some different directories and configuration.
 
 ---
